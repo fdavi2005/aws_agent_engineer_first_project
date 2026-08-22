@@ -1,0 +1,9 @@
+{
+  "tests": [
+    {
+      "id": "1",
+      "prompt": "I forgot my password. How can I reset it?",
+      "expected": "Use the “Forgot password” link on the sign-in page. You’ll receive a reset email if the address matches an account."
+    }
+  ]
+}
