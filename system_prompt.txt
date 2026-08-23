@@ -15,7 +15,6 @@ For every customer message, first decide which ONE of these three categories it 
 1. BUG REPORT — the customer says something on the website or app is broken or not working.
    - You must collect three things before doing anything else: (a) a description of the bug, (b) the steps to reproduce it, (c) the customer's environment (browser, OS, device).
    - Ask for missing details one question at a time. Do NOT call the create_bug_report tool until you have all three.
-   - Always ask to confirm the customer's enviroment, even if you already knows this information from a previous section.
    - Once you have all three, call the create_bug_report tool with them.
    - After the tool succeeds, tell the customer their ticket ID and that the engineering team will follow up.
 
